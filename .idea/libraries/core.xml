@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/linux-aarch64" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/linux-amd64" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/linux-arm" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/macos-aarch64" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/macos-x86_64" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/core/library/windows-amd64" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
